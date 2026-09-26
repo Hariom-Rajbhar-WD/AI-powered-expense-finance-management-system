@@ -1,5 +1,4 @@
  import {
-  LayoutDashboard,
   Receipt,
   Wallet,
   Bot,
