@@ -13,7 +13,7 @@ function Sidebar() {
     {
       name: "Dashboard",
       path: "/dashboard",
-      icon: <Home size={20} />
+      icon: <Home size={20} />   
     },
     {
       name: "Expenses",
