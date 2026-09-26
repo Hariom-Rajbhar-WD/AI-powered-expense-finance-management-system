@@ -2,7 +2,8 @@
   LayoutDashboard,
   Receipt,
   Wallet,
-  Bot
+  Bot,
+  Home
 } from "lucide-react";
 
 import { NavLink } from "react-router-dom";
@@ -13,7 +14,7 @@ function Sidebar() {
     {
       name: "Dashboard",
       path: "/dashboard",
-      icon: <LayoutDashboard size={20} />
+      icon: <Home size={20} />
     },
     {
       name: "Expenses",
